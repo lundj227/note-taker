@@ -10,6 +10,10 @@
   ### Usage
   Through software similar to insomia or run on the browser through local host.
   
+  ### Disclaimer
+  The only original code I have created is this readme file, apiroutes.js, htmlroutes.js, and server.js. Aside from some minor changes made to some of the other files, everything not mentioned above is copied from [this Repo](https://github.com/coding-boot-camp/miniature-eureka).
+
+
   ### Contributing
   The only additional functionality I would reccomend is a delete function so make the trash can icons work in the html but other than that, none.
   
